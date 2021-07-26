@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lili-jpg
+- 👋 Hi, I’m @l-gu
 - 👀 I’m interested in signal analysis, machine learning, deep larning, aerodynamics, tribology, optimization, system dynamics ...
 - 🌱 I’m currently learning signal analysis, machine learning, optimization, and deep larning ..
 - 💞️ I’m looking to collaborate on optimization and machine learning
